@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T09:42:28.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fiu0f0vcP7jCcuwLG8Sd" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T09:47:39.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5D4jr-5JM5upA5yiUEUw" version="20.2.4" type="github">
   <diagram id="jnxRDUMt227z0TPBHIGK" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="11069" math="0" shadow="0">
       <root>
@@ -88,10 +88,10 @@
           <mxGeometry x="775" y="1490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-5mFX9B4AYC5OpgeswR-46" value="少年一代" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="970" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-5mFX9B4AYC5OpgeswR-47" value="青年一代" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1120" width="60" height="30" as="geometry" />
+          <mxGeometry x="635" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-5mFX9B4AYC5OpgeswR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-5mFX9B4AYC5OpgeswR-48" target="a-5mFX9B4AYC5OpgeswR-52">
           <mxGeometry relative="1" as="geometry" />
@@ -145,13 +145,34 @@
           <mxGeometry x="1310" y="1220" width="80" height="175" as="geometry" />
         </mxCell>
         <mxCell id="a-5mFX9B4AYC5OpgeswR-72" value="结果变化" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="a-5mFX9B4AYC5OpgeswR-75">
-          <mxGeometry x="10" width="60" height="30" as="geometry" />
+          <mxGeometry width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-5mFX9B4AYC5OpgeswR-73" value="人物关系变化" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="a-5mFX9B4AYC5OpgeswR-75">
-          <mxGeometry y="90" width="80" height="20" as="geometry" />
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-5mFX9B4AYC5OpgeswR-74" value="人物变化" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="a-5mFX9B4AYC5OpgeswR-75">
-          <mxGeometry y="155" width="80" height="20" as="geometry" />
+          <mxGeometry y="150" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-76" value="和村子关系变好" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-5mFX9B4AYC5OpgeswR-73" target="a-5mFX9B4AYC5OpgeswR-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-78" value="终结了血雾" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-5mFX9B4AYC5OpgeswR-72" target="a-5mFX9B4AYC5OpgeswR-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-80" value="实力成长，心中充满信念" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1370" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-5mFX9B4AYC5OpgeswR-74" target="a-5mFX9B4AYC5OpgeswR-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-5mFX9B4AYC5OpgeswR-82" value="冲突-抉择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
