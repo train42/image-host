@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T09:29:56.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Qg4NzvuMTRTF0htr_a9Q" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T09:40:48.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cGnMB7LYK_M5q5E_hHQl" version="20.2.6" type="github">
   <diagram id="jnxRDUMt227z0TPBHIGK" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="11069" background="none" math="0" shadow="0">
       <root>
@@ -358,10 +358,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r19mjgsIhKdVJhFneVlf-3" value="主路线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2480" y="1320" width="80" height="40" as="geometry" />
+          <mxGeometry x="2528.75" y="1322.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r19mjgsIhKdVJhFneVlf-4" value="给予真相，观察结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2361.25" y="1445" width="317.5" height="60" as="geometry" />
+          <mxGeometry x="2410" y="1447.5" width="317.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
