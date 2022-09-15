@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T01:08:37.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5umhrh94-Ax-t5ZLSa3Q" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T01:12:42.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WqTdx43YAKoi7CV4863w" version="20.3.0" type="github">
   <diagram id="jnxRDUMt227z0TPBHIGK" name="第 1 页">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="11069" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="28069" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,6 +391,54 @@
         </mxCell>
         <mxCell id="cAfgHi3KuZbp847NSNLA-4" value="二尾由木人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="7060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAfgHi3KuZbp847NSNLA-5" target="cAfgHi3KuZbp847NSNLA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAfgHi3KuZbp847NSNLA-5" target="cAfgHi3KuZbp847NSNLA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-5" value="结局：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="8320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-8" value="辉夜怎么处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="8320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-9" value="月读世界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="8410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAfgHi3KuZbp847NSNLA-12" target="cAfgHi3KuZbp847NSNLA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAfgHi3KuZbp847NSNLA-12" target="cAfgHi3KuZbp847NSNLA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-12" value="真相" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="8180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-13" value="晓组织怎么处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="8140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-14" value="宇智波斑和带土处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="8220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAfgHi3KuZbp847NSNLA-17" target="cAfgHi3KuZbp847NSNLA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-17" value="村子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="8000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-18" value="同伴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="8000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cAfgHi3KuZbp847NSNLA-20" target="cAfgHi3KuZbp847NSNLA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-20" value="原著人物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="7840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-21" value="其他各村原著人物处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="7840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
