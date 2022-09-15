@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T10:00:11.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dCxzHIkAsTwQFYdwNktZ" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T01:08:37.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5umhrh94-Ax-t5ZLSa3Q" version="20.3.0" type="github">
   <diagram id="jnxRDUMt227z0TPBHIGK" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="11069" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="11069" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,20 +365,32 @@
         <mxCell id="r19mjgsIhKdVJhFneVlf-4" value="给予真相，观察结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2410" y="1447.5" width="317.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mFlIg025eJWdrzG_v9mU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFlIg025eJWdrzG_v9mU-3" target="r19mjgsIhKdVJhFneVlf-3">
+        <mxCell id="mFlIg025eJWdrzG_v9mU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mFlIg025eJWdrzG_v9mU-3" target="r19mjgsIhKdVJhFneVlf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFlIg025eJWdrzG_v9mU-3" value="水无月冥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFlIg025eJWdrzG_v9mU-3" value="水无月冥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2520" y="1210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mFlIg025eJWdrzG_v9mU-5" value="吃下黄泉果实有第二条命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFlIg025eJWdrzG_v9mU-5" value="吃下黄泉果实有第二条命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2317.5" y="903" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mFlIg025eJWdrzG_v9mU-6" value="初代三尾人柱力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFlIg025eJWdrzG_v9mU-6" value="初代三尾人柱力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1000" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mFlIg025eJWdrzG_v9mU-7" value="第三次忍界大战被斑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFlIg025eJWdrzG_v9mU-7" value="第三次忍界大战被斑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2320" y="1080" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-1" value="主： 水无月冥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="7060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-2" value="赤沙之蝎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="7060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-3" value="灼遁叶仓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="7060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAfgHi3KuZbp847NSNLA-4" value="二尾由木人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="7060" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
