@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T02:12:52.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="60TZUPh0d2nyJedOMQlY" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T15:11:17.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="eF1y0iMZmApxhE9202gP" version="20.3.0" type="github">
   <diagram id="jnxRDUMt227z0TPBHIGK" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="28069" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5827" pageHeight="28069" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,17 +440,41 @@
         <mxCell id="cAfgHi3KuZbp847NSNLA-21" value="其他各村原著人物处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="468" y="7840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-1" value="&lt;pre style=&quot;font-family: 宋体;&quot;&gt;&lt;font class=&quot;eye-protector-processed&quot; style=&quot;font-size: 14px; background-color: rgb(208, 217, 224); transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;大蛇丸，团藏，鼬&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-1" value="&lt;pre style=&quot;font-family: 宋体;&quot;&gt;&lt;font class=&quot;eye-protector-processed&quot; style=&quot;font-size: 14px; background-color: rgb(208, 217, 224); transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;大蛇丸，团藏，鼬&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="3580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-2" value="辉夜，绝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-2" value="辉夜，绝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="230" y="3360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-3" value="&lt;pre style=&quot;font-size: 12px; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px; transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot; class=&quot;eye-protector-processed&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;绝，斑，带土，鬼鲛&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-3" value="&lt;pre style=&quot;font-size: 12px; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px; transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot; class=&quot;eye-protector-processed&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;绝，斑，带土，鬼鲛&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="260" y="3430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-4" value="&lt;pre style=&quot;font-size: 12px; background-color: rgb(208, 217, 224); font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px; transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot; class=&quot;eye-protector-processed&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;佩恩，小南，迪达拉，蝎，飞段，角都，十藏&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="bc9k6Q4vrZ_YYqIV9WhZ-4" value="&lt;pre style=&quot;font-size: 12px; background-color: rgb(208, 217, 224); font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px; transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot; class=&quot;eye-protector-processed&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;佩恩，小南，迪达拉，蝎，飞段，角都，十藏&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="335" y="3510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="YNVB3zXREwWzfaEQaEon-4" target="YNVB3zXREwWzfaEQaEon-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-1" value="穿越" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="10570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YNVB3zXREwWzfaEQaEon-2" target="YNVB3zXREwWzfaEQaEon-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-2" value="修炼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="10690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-4" value="缺乏安全感" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="10640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="YNVB3zXREwWzfaEQaEon-1" target="YNVB3zXREwWzfaEQaEon-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="10600" as="sourcePoint" />
+            <mxPoint x="525" y="10690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNVB3zXREwWzfaEQaEon-6" value="吃下黄泉果实" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="10760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
