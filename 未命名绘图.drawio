@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T09:12:03.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sLcXb52IcJW-h1JNy24p" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T09:26:00.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8leijXKZJF58mjcADn68" version="20.3.3" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,6 +403,9 @@
         </mxCell>
         <mxCell id="UMvQV6eMnpR8ww9SCbzI-97" value="活下去" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMvQV6eMnpR8ww9SCbzI-98" value="&lt;pre style=&quot;color: rgb(155, 155, 155); font-family: 宋体; font-size: 15pt;&quot;&gt;&lt;span class=&quot;eye-protector-processed&quot; style=&quot;background-color: rgb(208, 217, 224); transition: background-color 0.3s ease 0s; border-color: rgba(0, 0, 0, 0.35);&quot;&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;* 设定：人柱力的身份，与家族的关系，家族在村子的处境，穿越前退休身份&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;*&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;* 切入点：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;*&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;* 人物动机：之前是提前退休，穿越后是保护家族，成为人柱力后是活下去&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;*&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;*&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 123, 70); font-style: italic;&quot;&gt;* 人物行动：平时努力修炼+和三尾搞好关系，当前首要-激活金手指，联系泡沫师傅（还是为了活命）&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2020" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
